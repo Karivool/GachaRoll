@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/GachaRoll/static/js/main.1173fa70.chunk.js",
+    "main.js.map": "/GachaRoll/static/js/main.1173fa70.chunk.js.map",
+    "runtime-main.js": "/GachaRoll/static/js/runtime-main.a6384291.js",
+    "runtime-main.js.map": "/GachaRoll/static/js/runtime-main.a6384291.js.map",
+    "static/js/2.3ce40b99.chunk.js": "/GachaRoll/static/js/2.3ce40b99.chunk.js",
+    "static/js/2.3ce40b99.chunk.js.map": "/GachaRoll/static/js/2.3ce40b99.chunk.js.map",
+    "static/js/3.4ad758e9.chunk.js": "/GachaRoll/static/js/3.4ad758e9.chunk.js",
+    "static/js/3.4ad758e9.chunk.js.map": "/GachaRoll/static/js/3.4ad758e9.chunk.js.map",
+    "index.html": "/GachaRoll/index.html",
+    "static/js/2.3ce40b99.chunk.js.LICENSE.txt": "/GachaRoll/static/js/2.3ce40b99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6384291.js",
+    "static/js/2.3ce40b99.chunk.js",
+    "static/js/main.1173fa70.chunk.js"
+  ]
+}
