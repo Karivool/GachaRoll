@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/GachaRoll/static/js/main.49be781c.chunk.js",
-    "main.js.map": "/GachaRoll/static/js/main.49be781c.chunk.js.map",
+    "main.js": "/GachaRoll/static/js/main.b16ed941.chunk.js",
+    "main.js.map": "/GachaRoll/static/js/main.b16ed941.chunk.js.map",
     "runtime-main.js": "/GachaRoll/static/js/runtime-main.a6384291.js",
     "runtime-main.js.map": "/GachaRoll/static/js/runtime-main.a6384291.js.map",
     "static/js/2.3ce40b99.chunk.js": "/GachaRoll/static/js/2.3ce40b99.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.a6384291.js",
     "static/js/2.3ce40b99.chunk.js",
-    "static/js/main.49be781c.chunk.js"
+    "static/js/main.b16ed941.chunk.js"
   ]
 }
